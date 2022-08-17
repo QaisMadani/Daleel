@@ -1,11 +1,9 @@
-package com.daleelak.dao;
+package com.daleel.dao;
 
 import java.util.List;
 import java.util.UUID;
 
-import com.daleelak.model.Document;
-
-import javax.print.Doc;
+import com.daleel.model.Document;
 
 public interface DocumentDao {
 

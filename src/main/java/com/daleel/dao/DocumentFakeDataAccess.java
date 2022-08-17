@@ -1,6 +1,6 @@
-package com.daleelak.dao;
+package com.daleel.dao;
 
-import com.daleelak.model.Document;
+import com.daleel.model.Document;
 import org.springframework.stereotype.Repository;
 
 import java.util.*;

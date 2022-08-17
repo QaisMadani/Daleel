@@ -1,7 +1,7 @@
-package com.daleelak.api;
+package com.daleel.api;
 
-import com.daleelak.model.Document;
-import com.daleelak.service.DocumentService;
+import com.daleel.model.Document;
+import com.daleel.service.DocumentService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -18,6 +18,7 @@ public class DocumentController {
 @PostMapping
     public void addDocument(@RequestBody Document document){
         documentService.addDocument(document);
+    //documentService.addDocument(document);
     }
 @GetMapping
     public List<Document> getAllDocuments(){

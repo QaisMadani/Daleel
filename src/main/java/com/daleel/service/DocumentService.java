@@ -1,6 +1,6 @@
-package com.daleelak.service;
-import com.daleelak.model.Document;
-import com.daleelak.dao.DocumentDao;
+package com.daleel.service;
+import com.daleel.model.Document;
+import com.daleel.dao.DocumentDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;

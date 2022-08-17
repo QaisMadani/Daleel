@@ -1,4 +1,4 @@
-package com.daleelak.datasource;
+package com.daleel.datasource;
 import com.zaxxer.hikari.HikariDataSource;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.jdbc.DataSourceBuilder;

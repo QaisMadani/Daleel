@@ -1,7 +1,7 @@
-package com.daleelak.model;
+package com.daleel.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import javax.print.attribute.standard.DocumentName;
+
 import java.util.UUID;
 public class Document {
 
